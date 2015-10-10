@@ -1,7 +1,7 @@
 {
   "name": "strip-bom-string",
   "description": "Strip a byte order mark (BOM) from a string.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/strip-bom-string",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/strip-bom-string",
@@ -39,6 +39,7 @@
       "list": [
         "cr",
         "copy",
+        "strip-bom-buffer",
         "read-file"
       ]
     }
