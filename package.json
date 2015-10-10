@@ -1,6 +1,6 @@
 {
   "name": "strip-bom-string",
-  "description": "Strip a byte order mark from a string.",
+  "description": "Strip a byte order mark (BOM) from a string.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/strip-bom-string",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
@@ -19,27 +19,27 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
   "devDependencies": {
     "mocha": "*"
   },
   "keywords": [
     "bom",
+    "byte",
     "byte-order-mark",
     "file",
     "fs",
+    "mark",
     "nl",
     "normalize",
+    "order",
     "string"
   ],
   "verb": {
     "related": {
       "list": [
-        "read-file",
-        "read-yaml",
-        "read-data",
-        "write",
-        "copy"
+        "cr",
+        "copy",
+        "read-file"
       ]
     }
   }
