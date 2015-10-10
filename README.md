@@ -1,4 +1,4 @@
-# strip-bom-string [![NPM version](https://badge.fury.io/js/strip-bom-string.svg)](http://badge.fury.io/js/strip-bom-string)
+# strip-bom-string [![NPM version](https://badge.fury.io/js/strip-bom-string.svg)](http://badge.fury.io/js/strip-bom-string)  [![Build Status](https://travis-ci.org/jonschlinkert/strip-bom-string.svg)](https://travis-ci.org/jonschlinkert/strip-bom-string)
 
 > Strip a byte order mark (BOM) from a string.
 
@@ -20,8 +20,8 @@ strip('\ufefffoo');
 
 ## Related projects
 
-* [copy](https://www.npmjs.com/package/copy): Copy files or directories using globs. | [homepage](https://github.com/jonschlinkert/copy)
 * [cr](https://www.npmjs.com/package/cr): Strip windows carriage returns, or convert carriage returns to newlines. | [homepage](https://github.com/jonschlinkert/cr)
+* [has-bom](https://www.npmjs.com/package/has-bom): Returns true if a buffer or string has a byte order mark (BOM) | [homepage](https://github.com/jonschlinkert/has-bom)
 * [read-file](https://www.npmjs.com/package/read-file): Thin wrapper around fs.readFile and fs.readFileSync that also strips byte order marks when `utf8` encoding… [more](https://www.npmjs.com/package/read-file) | [homepage](https://github.com/jonschlinkert/read-file)
 * [strip-bom-buffer](https://www.npmjs.com/package/strip-bom-buffer): Strip a byte order mark (BOM) from a buffer. | [homepage](https://github.com/jonschlinkert/strip-bom-buffer)
 
