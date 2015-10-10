@@ -23,6 +23,7 @@ strip('\ufefffoo');
 * [copy](https://www.npmjs.com/package/copy): Copy files or directories using globs. | [homepage](https://github.com/jonschlinkert/copy)
 * [cr](https://www.npmjs.com/package/cr): Strip windows carriage returns, or convert carriage returns to newlines. | [homepage](https://github.com/jonschlinkert/cr)
 * [read-file](https://www.npmjs.com/package/read-file): Thin wrapper around fs.readFile and fs.readFileSync that also strips byte order marks when `utf8` encoding… [more](https://www.npmjs.com/package/read-file) | [homepage](https://github.com/jonschlinkert/read-file)
+* [strip-bom-buffer](https://www.npmjs.com/package/strip-bom-buffer): Strip a byte order mark (BOM) from a buffer. | [homepage](https://github.com/jonschlinkert/strip-bom-buffer)
 
 ## Running tests
 
