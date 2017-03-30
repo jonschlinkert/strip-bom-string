@@ -32,15 +32,16 @@
     "nl",
     "normalize",
     "order",
-    "string"
+    "string",
+    "strip"
   ],
   "verb": {
     "related": {
       "list": [
         "cr",
         "has-bom",
-        "strip-bom-buffer",
-        "read-file"
+        "read-file",
+        "strip-bom-buffer"
       ]
     }
   }
